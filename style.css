@@ -1,25 +1,25 @@
 body {
-    font-family: Arial, sans-serif; /* Písmo pre celý dokument */
-    margin: 0; /* Odstránenie predvoleného okraja */
-    padding: 20px; /* Padding okolo obsahu */
-    background-color: #f4f4f4; /* Svetlo šedá farba pozadia */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
 }
 
 nav ul {
-    list-style: none; /* Odstránenie bodiek zo zoznamu */
-    padding: 0; /* Odstránenie predvoleného paddingu */
+    list-style: none;
+    padding: 0;
 }
 
 nav ul li {
-    display: inline; /* Zobrazenie položiek v riadku */
-    margin-right: 10px; /* Medzera medzi položkami */
+    display: inline;
+    margin-right: 10px;
 }
 
 nav ul li a {
-    text-decoration: none; /* Odstránenie podčiarknutia */
-    color: #333; /* Farba textu */
+    text-decoration: none;
+    color: #333;
 }
 
 h1 {
-    color: #333; /* Farba nadpisu */
+    color: #333;
 }
